@@ -8,6 +8,6 @@
 
 ### FuzzyVault system
 
-### RNN
+### ANN
 
 ### CNN
